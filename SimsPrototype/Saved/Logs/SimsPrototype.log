@@ -1837,3 +1837,837 @@ An asset already exists at the import location: /Game/Assets/Model/NPC/FabriceDu
 [2022.12.17-17.03.47:517][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Model/NPC/FabriceDubois/Source/Exported/Top]
 [2022.12.17-17.03.47:519][767]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Top_Auto19D2E6678409D019ACE6795A2EDBF0DC0.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Autosaves/Game/Assets/Model/NPC/FabriceDubois/Source/Exported/Top_Auto1.uasset'
 [2022.12.17-17.03.47:519][767]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.12.17-17.08.16:074][123]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Model/NPC/FabriceDubois/FabriceDubois.FabriceDubois
+[2022.12.17-17.08.16:078][123]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.17-17.08.21:492][683]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Material/NPC/FabriceDubois/Body.Body
+[2022.12.17-17.08.21:493][683]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: AD7A3D19DB4157D9AE37562E27BE5D9D404A6EBE), compiling. 
+[2022.12.17-17.08.21:494][683]LogMaterial: Warning: [AssetLog] /Engine/Transient.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.21:494][683]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.21:551][683]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 6ACC10F1D6E918DA84076698CF0D8FF404C43756), compiling. 
+[2022.12.17-17.08.21:552][683]LogMaterial: Warning: [AssetLog] /Engine/Transient.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.21:552][683]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.21:553][683]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 8C68062453BEFBF67D54DB45374382B51F965582), compiling. 
+[2022.12.17-17.08.21:554][683]LogMaterial: Warning: [AssetLog] /Engine/Transient.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.21:554][683]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.21:554][683]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D18E6F90F176022F2ECD2D5E98AC64103542223B), compiling. 
+[2022.12.17-17.08.21:555][683]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 65E5910400515D50F398C571AD1514DF5E3E618F), compiling. 
+[2022.12.17-17.08.21:556][683]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: C052DF5ABC97F774BB348F3542DCE7B31A54AABA), compiling. 
+[2022.12.17-17.08.21:556][683]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AC1F42E45563FD61432EA018C4BA2855BC9A6897), compiling. 
+[2022.12.17-17.08.21:569][683]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.28:315][345]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/HairF0742FDD42940195ECD268B67601A5E1.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Model/NPC/FabriceDubois/Source/Exported/Hair.uasset'
+[2022.12.17-17.08.28:317][345]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Bottom6C5AC1544B508FAD2067D081F9721230.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Model/NPC/FabriceDubois/Source/Exported/Bottom.uasset'
+[2022.12.17-17.08.28:319][345]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/ShoesE57D84DB4C0CA9810783F09CC2262697.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Model/NPC/FabriceDubois/Source/Exported/Shoes.uasset'
+[2022.12.17-17.08.28:322][345]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Top50AEEFCA49C90194BCA8A39CBF1AAAAD.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Model/NPC/FabriceDubois/Source/Exported/Top.uasset'
+[2022.12.17-17.08.28:330][345]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.17-17.08.28:330][345]LogContentValidation: Display: Validating Material /Game/Assets/Model/NPC/FabriceDubois/Source/Exported/Hair.Hair
+[2022.12.17-17.08.28:331][345]LogContentValidation: Display: Validating Material /Game/Assets/Model/NPC/FabriceDubois/Source/Exported/Bottom.Bottom
+[2022.12.17-17.08.28:331][345]LogContentValidation: Display: Validating Material /Game/Assets/Model/NPC/FabriceDubois/Source/Exported/Shoes.Shoes
+[2022.12.17-17.08.28:331][345]LogContentValidation: Display: Validating Material /Game/Assets/Model/NPC/FabriceDubois/Source/Exported/Top.Top
+[2022.12.17-17.08.32:856][750]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 9783381D3A887E7F05D7A986D17378BDF2C52EBA), compiling. 
+[2022.12.17-17.08.32:856][750]LogMaterial: Warning: [AssetLog] /Engine/Transient.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.32:856][750]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.32:857][750]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6967EDA69CB34FB4A337AFB783EE46CA061CC164), compiling. 
+[2022.12.17-17.08.32:859][750]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 75392B449859C3380A4A53DC53183FBD64C0EBA8), compiling. 
+[2022.12.17-17.08.32:860][750]LogMaterial: Warning: [AssetLog] /Engine/Transient.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.32:860][750]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.32:894][752]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.32:894][752]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.08.32:894][752]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.08.32:894][752]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.33:336][784]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.17-17.08.33:336][784]LogShaderCompilers: Display: Total job queries 861, among them cache hits 248 (28.80%)
+[2022.12.17-17.08.33:336][784]LogShaderCompilers: Display: Tracking 369 distinct input hashes that result in 63 distinct outputs (17.07%)
+[2022.12.17-17.08.33:336][784]LogShaderCompilers: Display: RAM used: 0.38 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2022.12.17-17.08.33:336][784]LogShaderCompilers: Display: ================================================
+[2022.12.17-17.08.37:957][213]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: CA169237F6A9BC705CC26EEC54AA9F85764F6C18), compiling. 
+[2022.12.17-17.08.37:958][213]LogMaterial: Warning: [AssetLog] /Engine/Transient.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.37:958][213]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.37:958][213]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3CCACFE8EBB2AA27A031746C55D9867BAB38D02D), compiling. 
+[2022.12.17-17.08.37:961][213]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: D21776BBA25F3471BABEF14D1127DBDB28FF843C), compiling. 
+[2022.12.17-17.08.37:961][213]LogMaterial: Warning: [AssetLog] /Engine/Transient.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.37:961][213]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.37:994][215]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.37:994][215]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.08.37:994][215]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.08.37:994][215]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.41:466][517]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 61234F5861F787B79CFA4729CEEF7CC063827B1B), compiling. 
+[2022.12.17-17.08.41:467][517]LogMaterial: Warning: [AssetLog] /Engine/Transient.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.41:467][517]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.41:468][517]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A44361064CE17D692DDD92887CF38DCA86A1A8C7), compiling. 
+[2022.12.17-17.08.41:471][517]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 93EC6AC4E8BF2C50AF0D30C122FBF393DBD50FFA), compiling. 
+[2022.12.17-17.08.41:471][517]LogMaterial: Warning: [AssetLog] /Engine/Transient.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.41:471][517]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.41:504][519]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.41:504][519]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.08.41:504][519]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.08.41:504][519]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.44:632][786]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: A4384AF9A5701422E2427A9690644DABFF1AC011), compiling. 
+[2022.12.17-17.08.44:633][786]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CF5C80D6C99A7B26DB6486A05F4B0DE9F213ABB6), compiling. 
+[2022.12.17-17.08.44:636][786]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: FEF058DF82E31AD5488F0B7B5AA82FD326FB4ABF), compiling. 
+[2022.12.17-17.08.44:638][786]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.17-17.08.44:639][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.08.44:639][786]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.08.44:660][787]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.44:660][787]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.44:660][787]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.12.17-17.08.44:660][787]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.12.17-17.08.44:660][787]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.12.17-17.08.44:660][787]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Submitted 53 shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 48
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 33
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.44:703][788]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.44:712][788]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.45:145][807]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.12.17-17.08.45:145][807]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.45:265][812]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.12.17-17.08.45:266][812]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.45:296][813]MaterialEditorStats: Texture samplers: 1/16
+[2022.12.17-17.08.45:297][813]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.08.45:297][813]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.08.45:427][816]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2022.12.17-17.08.45:428][816]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2022.12.17-17.08.45:428][816]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.45:484][817]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.08.45:484][817]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.08.45:484][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.08.45:641][823]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2022.12.17-17.08.45:641][823]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2022.12.17-17.08.45:641][823]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.45:689][825]LogMaterialEditor: Saving and Compiling material Body
+[2022.12.17-17.08.46:229][825]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2022.12.17-17.08.46:229][825]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.46:229][825]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2022.12.17-17.08.46:229][825]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.46:229][825]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2022.12.17-17.08.46:229][825]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.46:229][825]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.12.17-17.08.46:229][825]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.46:295][825]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 41A35422B9BD1E5DE397C1A25288AC2834A2653C), compiling. 
+[2022.12.17-17.08.46:345][825]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: C6574BD07813586C60E8B7C0F2776134063D1006), compiling. 
+[2022.12.17-17.08.46:477][825]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.46:484][825]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2022.12.17-17.08.46:484][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.46:484][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.12.17-17.08.46:491][825]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.12.17-17.08.46:491][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.46:491][825]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.12.17-17.08.47:647][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:660][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.12.17-17.08.47:751][825]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:782][825]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Body0871753A449DB657A64613859D2D9FC2.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Material/NPC/FabriceDubois/Body.uasset'
+[2022.12.17-17.08.47:797][825]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2022.12.17-17.08.47:797][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.47:797][825]AssetCheck: New page: Asset Save: Body
+[2022.12.17-17.08.47:797][825]LogContentValidation: Display: Validating Material /Game/Assets/Material/NPC/FabriceDubois/Body.Body
+[2022.12.17-17.08.47:798][825]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.17-17.08.47:798][825]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.08.47:798][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.08.47:856][826]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.08.47:856][826]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.08.47:856][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.08.48:083][834]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2022.12.17-17.08.48:083][834]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.48:118][835]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.12.17-17.08.48:118][835]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.48:147][836]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.12.17-17.08.48:147][836]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.48:209][838]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2022.12.17-17.08.48:209][838]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.12.17-17.08.48:209][838]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.08.48:639][857]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.08.48:639][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.08.48:639][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.08.48:712][861]MaterialEditorStats: Base pass shader: 132 instructions
+[2022.12.17-17.08.48:712][861]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2022.12.17-17.08.48:712][861]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2022.12.17-17.08.48:712][861]MaterialEditorStats: Base pass vertex shader: 160 instructions
+[2022.12.17-17.08.48:712][861]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.08.48:712][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.08.48:712][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.08.49:395][931]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: 4FD27CEBEE781CCEBDABA2F8B4B8E73CF7585C7D), compiling. 
+[2022.12.17-17.08.49:396][931]LogMaterial: Warning: [AssetLog] E:\Projet Unreal Engine\Sims-Prototype-UE-4.27.2\SimsPrototype\Content\Assets\Material\NPC\FabriceDubois\Bottom.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.49:396][931]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.49:436][931]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Material/NPC/FabriceDubois/Bottom.Bottom
+[2022.12.17-17.08.49:438][931]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: 78E2EC429344166FE29AD1E877B2E0256903F40A), compiling. 
+[2022.12.17-17.08.49:438][931]LogMaterial: Warning: [AssetLog] /Engine/Transient.Bottom (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.49:438][931]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.49:492][931]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: 2AE44DDEAF3553908EF9BF5F2DFCA18C9E089F80), compiling. 
+[2022.12.17-17.08.49:492][931]LogMaterial: Warning: [AssetLog] /Engine/Transient.Bottom (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.49:492][931]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.49:494][931]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: AF55B364A72726BD392099CCF4443207BD1D0126), compiling. 
+[2022.12.17-17.08.49:494][931]LogMaterial: Warning: [AssetLog] /Engine/Transient.Bottom (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.49:494][931]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.49:495][931]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B18A0DC3C776B3D1B6C6493E1E384C3B965A432), compiling. 
+[2022.12.17-17.08.49:496][931]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D5861DF4CAEF810EFBF616FCC301B058AE2BB784), compiling. 
+[2022.12.17-17.08.49:496][931]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: DB1EECAB558F0C431B3DD57B7EA0D4BC3C6C215E), compiling. 
+[2022.12.17-17.08.49:497][931]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B5F5BC3CCE6DD6B8262993E5A5C9F1865F51D88), compiling. 
+[2022.12.17-17.08.49:510][931]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.53:119][285]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: BC8A185AC9E92820F39AC06EF7B77F14BAB321D6), compiling. 
+[2022.12.17-17.08.53:120][285]LogMaterial: Warning: [AssetLog] E:\Projet Unreal Engine\Sims-Prototype-UE-4.27.2\SimsPrototype\Content\Assets\Material\NPC\FabriceDubois\Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.53:120][285]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.55:106][457]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Material/NPC/FabriceDubois/Hair.Hair
+[2022.12.17-17.08.55:107][457]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 7D31ACD5CE8E6E187F94EDFDEA7847801CF0EB3E), compiling. 
+[2022.12.17-17.08.55:108][457]LogMaterial: Warning: [AssetLog] /Engine/Transient.Hair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.55:108][457]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.55:168][457]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 553232B3C57E3433B320FA14139C7ADDC3A7F5E5), compiling. 
+[2022.12.17-17.08.55:168][457]LogMaterial: Warning: [AssetLog] /Engine/Transient.Hair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.55:168][457]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.55:170][457]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 350CA50E8524A48D55F7AC12E2C411F81192F105), compiling. 
+[2022.12.17-17.08.55:170][457]LogMaterial: Warning: [AssetLog] /Engine/Transient.Hair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.55:170][457]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.55:171][457]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 427AD5ADA64F80948A009DE3E1A0A7C4274E2965), compiling. 
+[2022.12.17-17.08.55:171][457]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E790146CEBA0EA241CE5436011B435A1937C784), compiling. 
+[2022.12.17-17.08.55:172][457]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F637BBE01CC737CF807B375C12EC984FAC61E99), compiling. 
+[2022.12.17-17.08.55:173][457]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F426E098B25F4323463927FABC2459EBD918CFC3), compiling. 
+[2022.12.17-17.08.55:186][457]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:253][546]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: FD504DE1371008A6C59692E6E36A2B119D1F5B28), compiling. 
+[2022.12.17-17.08.56:254][546]LogMaterial: Warning: [AssetLog] E:\Projet Unreal Engine\Sims-Prototype-UE-4.27.2\SimsPrototype\Content\Assets\Material\NPC\FabriceDubois\Shoes.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.56:254][546]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:282][546]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Material/NPC/FabriceDubois/Shoes.Shoes
+[2022.12.17-17.08.56:284][546]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 0C9EEFC4CC2039679E1F86BF1BDEE7556F7D83CA), compiling. 
+[2022.12.17-17.08.56:284][546]LogMaterial: Warning: [AssetLog] /Engine/Transient.Shoes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.56:284][546]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:341][546]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 8382A458BCB060ED41BD26C7F18F9ABFD54FEE78), compiling. 
+[2022.12.17-17.08.56:341][546]LogMaterial: Warning: [AssetLog] /Engine/Transient.Shoes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.56:342][546]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:343][546]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 52D1AED9443DEDEF19B96E049A02489991D8467B), compiling. 
+[2022.12.17-17.08.56:343][546]LogMaterial: Warning: [AssetLog] /Engine/Transient.Shoes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.56:343][546]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:344][546]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4ED854D043C75F80EC0173CECA4161C2C57FCB8A), compiling. 
+[2022.12.17-17.08.56:345][546]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4775B70640B4CCEDCAB2265079E3087EE9965DA0), compiling. 
+[2022.12.17-17.08.56:345][546]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B8E1E4C00385CF9202695F96D4C8A41D28BB936), compiling. 
+[2022.12.17-17.08.56:346][546]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C2186945A378CB9AC70D854D89E02E3718428F9), compiling. 
+[2022.12.17-17.08.56:359][546]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:895][587]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: DD921474770EDFBB2CD0B4C6123440E7AC4EFB17), compiling. 
+[2022.12.17-17.08.56:896][587]LogMaterial: Warning: [AssetLog] E:\Projet Unreal Engine\Sims-Prototype-UE-4.27.2\SimsPrototype\Content\Assets\Material\NPC\FabriceDubois\Top.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.56:896][587]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:917][587]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Material/NPC/FabriceDubois/Top.Top
+[2022.12.17-17.08.56:919][587]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: B0EE5BDB83EC38B77B327FFB76B8E1F467B1477C), compiling. 
+[2022.12.17-17.08.56:919][587]LogMaterial: Warning: [AssetLog] /Engine/Transient.Top (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.56:919][587]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:976][587]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: 6ABE27A7DDFA5A5EC08F45CAC4E80FD4AF11096B), compiling. 
+[2022.12.17-17.08.56:976][587]LogMaterial: Warning: [AssetLog] /Engine/Transient.Top (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.56:977][587]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:978][587]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: BFE711216A35EE8BFE51CC78ED56E1C180461F75), compiling. 
+[2022.12.17-17.08.56:978][587]LogMaterial: Warning: [AssetLog] /Engine/Transient.Top (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.08.56:978][587]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.08.56:979][587]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 19776891047B591430F9253432DDD2F049146420), compiling. 
+[2022.12.17-17.08.56:979][587]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 81DA7203D711F41369DEE0538F5A31D2D477D8B4), compiling. 
+[2022.12.17-17.08.56:980][587]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C43385AE7A08F90FE22B419460567FE36CE5C404), compiling. 
+[2022.12.17-17.08.56:981][587]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 657086B36C7BC9B74CCC5D41C4FB14E489E030DE), compiling. 
+[2022.12.17-17.08.56:995][587]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.14:521][274]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: 63FF289CA535D0907A7966C401CC45032955F5A8), compiling. 
+[2022.12.17-17.09.14:522][274]LogMaterial: Warning: [AssetLog] /Engine/Transient.Bottom (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.14:522][274]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.14:523][274]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D6C039B904D38BA76DDB79CB8CADDA0193BFE5E), compiling. 
+[2022.12.17-17.09.14:525][274]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: E0BD91D2DDE14ABD0A4F2ADFFF09017DE5A89FDF), compiling. 
+[2022.12.17-17.09.14:526][274]LogMaterial: Warning: [AssetLog] /Engine/Transient.Bottom (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.14:526][274]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.20:463][808]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: 14D31F0BAA71BF7C6957DFA94A5BA8AD1C9F95AE), compiling. 
+[2022.12.17-17.09.20:464][808]LogMaterial: Warning: [AssetLog] /Engine/Transient.Bottom (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.20:464][808]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.20:465][808]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 20C068382BAA61A75EE742FB60443AD0F1271946), compiling. 
+[2022.12.17-17.09.20:467][808]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: D8BD326282F3E52A64698760044D14CF157AF389), compiling. 
+[2022.12.17-17.09.20:467][808]LogMaterial: Warning: [AssetLog] /Engine/Transient.Bottom (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.20:467][808]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.20:494][810]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.20:505][811]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.09.20:505][811]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.09.20:505][811]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.23:009][ 23]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: CEAF5F569EBD2DEE922C52092ED76374E1E993B5), compiling. 
+[2022.12.17-17.09.23:010][ 23]LogMaterial: Warning: [AssetLog] /Engine/Transient.Bottom (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.23:010][ 23]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.23:010][ 23]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F455F324AAD6E2F4FF24E9A2A4CE8EB7E082860), compiling. 
+[2022.12.17-17.09.23:013][ 23]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: BF96B60FDAAC34E83F4DC54D3E7A493B6B4E6DF2), compiling. 
+[2022.12.17-17.09.23:013][ 23]LogMaterial: Warning: [AssetLog] /Engine/Transient.Bottom (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.23:013][ 23]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.25:290][236]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: 56B977C93FA3EA5A75072F8E984C8FB506CC2FD4), compiling. 
+[2022.12.17-17.09.25:292][236]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5DEB8A71D7AAE049B0A03972DAF37E7BEA9D659E), compiling. 
+[2022.12.17-17.09.25:295][236]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: 60CFDD9802463DB33885E3B3B07856E27E1DDDDB), compiling. 
+[2022.12.17-17.09.25:298][236]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.17-17.09.25:298][236]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.25:298][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.25:313][237]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.25:313][237]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.09.25:313][237]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.09.25:313][237]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.12.17-17.09.25:327][238]LogShaderCompilers: Display: Started 28 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.25:336][238]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.25:821][261]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.12.17-17.09.25:821][261]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.26:117][269]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.12.17-17.09.26:117][269]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.26:150][270]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.09.26:150][270]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.26:150][270]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.26:442][280]LogMaterialEditor: Saving and Compiling material Bottom
+[2022.12.17-17.09.26:975][280]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: 888CDC50E875DC277FD3897A415884B1E26F2FCA), compiling. 
+[2022.12.17-17.09.27:011][280]LogMaterial: Display: Missing cached shadermap for Bottom in PCD3D_SM5, Default, SM5 (DDC key hash: C655005C678CB327FB0E835ED93831BC233F5BE8), compiling. 
+[2022.12.17-17.09.27:091][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.12.17-17.09.27:097][280]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.27:519][280]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.12.17-17.09.27:519][280]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.27:528][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.12.17-17.09.27:592][280]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.12.17-17.09.27:599][280]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.27:620][280]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Bottom2EC5F5D84125CAA720CF3E97118B7C14.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Material/NPC/FabriceDubois/Bottom.uasset'
+[2022.12.17-17.09.27:637][280]AssetCheck: New page: Asset Save: Bottom
+[2022.12.17-17.09.27:637][280]LogContentValidation: Display: Validating Material /Game/Assets/Material/NPC/FabriceDubois/Bottom.Bottom
+[2022.12.17-17.09.27:638][280]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.17-17.09.27:638][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.27:638][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.27:667][281]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.09.27:667][281]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.27:667][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.28:238][303]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.09.28:238][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.28:238][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.28:380][314]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.12.17-17.09.28:380][314]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.12.17-17.09.28:380][314]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.12.17-17.09.28:380][314]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.12.17-17.09.28:380][314]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.09.28:380][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.28:380][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.40:944][392]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 3F346F332639D606159289E436BFFDD26A1EBFD7), compiling. 
+[2022.12.17-17.09.40:944][392]LogMaterial: Warning: [AssetLog] /Engine/Transient.Hair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.40:944][392]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.40:945][392]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8777FED7D18EA15C65341349D18DF7B544B1EEA6), compiling. 
+[2022.12.17-17.09.40:947][392]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: FD136E8ADC9D5B4F838EC40D1C5C2AF4A51CC088), compiling. 
+[2022.12.17-17.09.40:948][392]LogMaterial: Warning: [AssetLog] /Engine/Transient.Hair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.40:948][392]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.45:593][799]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 16DA216D0B7E897883976688AE1A4B2176886A82), compiling. 
+[2022.12.17-17.09.45:593][799]LogMaterial: Warning: [AssetLog] /Engine/Transient.Hair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.45:593][799]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.45:594][799]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 466C8F4D6BE93D4A394C449D6013CE283B2B5BE1), compiling. 
+[2022.12.17-17.09.45:599][799]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: E57B0B9A2B29675D1978E72742557862D78D1698), compiling. 
+[2022.12.17-17.09.45:599][799]LogMaterial: Warning: [AssetLog] /Engine/Transient.Hair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.45:599][799]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.45:629][801]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.45:629][801]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.09.45:629][801]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.09.45:629][801]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.49:439][121]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 030A7CCB8353EFC0E8EF71F39C6762BE0FF93139), compiling. 
+[2022.12.17-17.09.49:440][121]LogMaterial: Warning: [AssetLog] /Engine/Transient.Hair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.49:440][121]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.49:440][121]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 24AE6A1564889EE5BA35021FE94162D1A795E9AB), compiling. 
+[2022.12.17-17.09.49:443][121]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 013128D9A82C05A91BEC635A7EDA6A8583B81AAA), compiling. 
+[2022.12.17-17.09.49:443][121]LogMaterial: Warning: [AssetLog] /Engine/Transient.Hair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.09.49:443][121]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.09.49:471][123]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.49:471][123]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.09.49:471][123]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.09.49:471][123]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.51:499][288]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: EEA4359FAF07C463BDF2CC7FCB09C821007088A8), compiling. 
+[2022.12.17-17.09.51:501][288]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 266502FB19F6684FB6AA702C7C8F58F22DBECAAB), compiling. 
+[2022.12.17-17.09.51:503][288]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 52752B3C6DE4F896CB8BD7E055CA59494F8733E8), compiling. 
+[2022.12.17-17.09.51:506][288]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.17-17.09.51:506][288]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.51:506][288]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.51:521][289]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.51:521][289]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.12.17-17.09.51:521][289]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.51:532][290]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.51:532][290]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.12.17-17.09.51:532][290]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.12.17-17.09.51:532][290]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Submitted 53 shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 50
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 45
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 40
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 35
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 30
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 25
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.51:566][290]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.52:293][319]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.12.17-17.09.52:294][319]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.52:329][320]MaterialEditorStats: Texture samplers: 1/16
+[2022.12.17-17.09.52:329][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.52:329][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.52:467][325]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 18
+[2022.12.17-17.09.52:467][325]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.52:531][328]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2022.12.17-17.09.52:531][328]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 14
+[2022.12.17-17.09.52:531][328]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.52:532][328]LogMaterialEditor: Saving and Compiling material Hair
+[2022.12.17-17.09.53:090][328]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2022.12.17-17.09.53:090][328]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.53:090][328]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.12.17-17.09.53:091][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.53:151][328]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 5F975007DF809C4373CA8B4789CB0E9C199B1F09), compiling. 
+[2022.12.17-17.09.53:210][328]LogMaterial: Display: Missing cached shadermap for Hair in PCD3D_SM5, Default, SM5 (DDC key hash: B0B0212782FA6DAE7D41E8BD3D92392A0CF5147A), compiling. 
+[2022.12.17-17.09.53:223][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.12.17-17.09.53:231][328]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:382][328]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.12.17-17.09.54:383][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:395][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.12.17-17.09.54:487][328]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:520][328]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Hair445E540F4C618E950992AEA1F6DAA0D2.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Material/NPC/FabriceDubois/Hair.uasset'
+[2022.12.17-17.09.54:534][328]AssetCheck: New page: Asset Save: Hair
+[2022.12.17-17.09.54:534][328]LogContentValidation: Display: Validating Material /Game/Assets/Material/NPC/FabriceDubois/Hair.Hair
+[2022.12.17-17.09.54:535][328]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.17-17.09.54:535][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.54:535][328]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.54:567][329]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.09.54:567][329]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.54:567][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.54:725][335]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2022.12.17-17.09.54:725][335]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:845][338]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.12.17-17.09.54:845][338]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:880][339]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2022.12.17-17.09.54:880][339]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:918][340]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.12.17-17.09.54:918][340]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:952][341]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.12.17-17.09.54:952][341]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.54:980][342]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.12.17-17.09.54:980][342]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.55:123][348]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.12.17-17.09.55:123][348]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.09.55:456][363]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.09.55:457][363]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.55:457][363]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.09.55:507][366]MaterialEditorStats: Base pass shader: 137 instructions
+[2022.12.17-17.09.55:507][366]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 211 instructions
+[2022.12.17-17.09.55:507][366]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2022.12.17-17.09.55:507][366]MaterialEditorStats: Base pass vertex shader: 160 instructions
+[2022.12.17-17.09.55:507][366]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.09.55:507][366]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.09.55:507][366]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.10.49:705][958]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 9E422726F54FA0E578AE88301636D86154CC1875), compiling. 
+[2022.12.17-17.10.49:706][958]LogMaterial: Warning: [AssetLog] /Engine/Transient.Shoes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.10.49:706][958]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.10.49:706][958]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BB0D73131AC58BB460EBD55BA6316041833CC296), compiling. 
+[2022.12.17-17.10.49:709][958]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: FA8AA6D2D4DAAB1388AF1F4136BB971ACED5385B), compiling. 
+[2022.12.17-17.10.49:709][958]LogMaterial: Warning: [AssetLog] /Engine/Transient.Shoes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.10.49:709][958]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.10.53:994][322]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 9A3CECE91B65A63A4284B9AFE33E3DA2171B8345), compiling. 
+[2022.12.17-17.10.53:995][322]LogMaterial: Warning: [AssetLog] /Engine/Transient.Shoes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.10.53:995][322]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.10.53:995][322]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 50F2DEA4DCDFE626D5CB307E7CEB81FD3E82FE40), compiling. 
+[2022.12.17-17.10.53:997][322]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 79AF61A4291E0C04B8822FE6F7683847BA7D3295), compiling. 
+[2022.12.17-17.10.53:998][322]LogMaterial: Warning: [AssetLog] /Engine/Transient.Shoes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.10.53:998][322]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.10.56:909][572]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 31EA3CD155C78F14C450741A6EBF17F4C35E587F), compiling. 
+[2022.12.17-17.10.56:910][572]LogMaterial: Warning: [AssetLog] /Engine/Transient.Shoes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.10.56:910][572]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.10.56:911][572]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 60825F1E65FFB23C7B44A3F2326394302A69C29F), compiling. 
+[2022.12.17-17.10.56:920][572]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 4E160E0EA0C074D02AA7A82BE31AED465722ABC4), compiling. 
+[2022.12.17-17.10.56:921][572]LogMaterial: Warning: [AssetLog] /Engine/Transient.Shoes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.10.56:921][572]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.10.56:961][573]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.10.56:961][573]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.10.56:961][573]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.10.56:961][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.10.58:862][725]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 3662407F5A1BC7989065A2AED789FDA514AA8ECA), compiling. 
+[2022.12.17-17.10.58:864][725]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 161B495A8E734BE2F861B72BF760E2F43B27B0F2), compiling. 
+[2022.12.17-17.10.58:866][725]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: CE66DD5AA71AD875641983DFA180042ED1B83977), compiling. 
+[2022.12.17-17.10.58:869][725]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.17-17.10.58:869][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.10.58:869][725]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.10.58:885][726]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.10.58:885][726]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.10.58:886][726]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.10.58:886][726]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 24
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 23
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 22
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2022.12.17-17.10.58:898][727]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.10.58:904][727]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.10.59:393][746]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2022.12.17-17.10.59:393][746]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.10.59:598][751]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.12.17-17.10.59:598][751]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.10.59:774][756]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.10.59:774][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.12.17-17.10.59:774][756]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.10.59:778][756]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.10.59:778][756]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.10.59:778][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.10.59:932][760]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.12.17-17.10.59:932][760]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.10.59:959][761]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2022.12.17-17.10.59:959][761]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:010][763]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2022.12.17-17.11.00:010][763]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:114][767]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2022.12.17-17.11.00:114][767]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:281][772]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.12.17-17.11.00:281][772]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:343][774]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.12.17-17.11.00:344][774]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:390][776]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2022.12.17-17.11.00:390][776]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:390][776]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.12.17-17.11.00:390][776]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.12.17-17.11.00:390][776]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:414][777]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.12.17-17.11.00:414][777]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:415][777]LogMaterialEditor: Saving and Compiling material Shoes
+[2022.12.17-17.11.00:924][777]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.12.17-17.11.00:924][777]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:924][777]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.12.17-17.11.00:924][777]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:924][777]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.12.17-17.11.00:924][777]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.00:953][777]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: E4BD53E4F626A2F98011509F61D58BD3ECCC9A5A), compiling. 
+[2022.12.17-17.11.00:985][777]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 226A57989837FBF733DE18623DEB2C6F3B3B3B76), compiling. 
+[2022.12.17-17.11.00:994][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.17-17.11.01:000][777]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.11.01:316][777]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.12.17-17.11.01:316][777]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.11.01:325][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.12.17-17.11.01:383][777]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.12.17-17.11.01:385][777]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.01:414][777]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Shoes59AF4D45409E02EDF26ADF8F9D0CBB7E.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Material/NPC/FabriceDubois/Shoes.uasset'
+[2022.12.17-17.11.01:430][777]AssetCheck: New page: Asset Save: Shoes
+[2022.12.17-17.11.01:431][777]LogContentValidation: Display: Validating Material /Game/Assets/Material/NPC/FabriceDubois/Shoes.Shoes
+[2022.12.17-17.11.01:431][777]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.17-17.11.01:431][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.01:431][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.01:462][778]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.01:462][778]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.01:462][778]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.02:059][804]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.11.02:059][804]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.02:059][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.02:181][814]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.12.17-17.11.02:181][814]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.12.17-17.11.02:181][814]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.12.17-17.11.02:181][814]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.12.17-17.11.02:181][814]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.11.02:181][814]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.02:181][814]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.16:349][ 82]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: E6FDD2A98B074D8772502D8799EFB893A7F89C71), compiling. 
+[2022.12.17-17.11.16:351][ 82]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D62BCE575C88BC28ED6B7FFFBCA6F24FB2E30E68), compiling. 
+[2022.12.17-17.11.16:353][ 82]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 401E3EE9078AFFF83E74F265EE044718AFD53203), compiling. 
+[2022.12.17-17.11.16:356][ 82]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.17-17.11.16:356][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.16:356][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.16:368][ 83]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.16:368][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.16:368][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.16:405][ 84]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.12.17-17.11.16:405][ 84]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.12.17-17.11.16:405][ 84]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.12.17-17.11.16:405][ 84]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.12.17-17.11.16:406][ 84]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.16:406][ 84]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.16:406][ 84]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.20:454][433]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 4B5DF8B15EE33EA63B7C32050DE1BC81F4E5A9E8), compiling. 
+[2022.12.17-17.11.20:456][433]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CFF638D043A21683105F7D221F42CB5CA7DA9146), compiling. 
+[2022.12.17-17.11.20:459][433]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 06D437B88F2E619C15DC7CBC938DFF0BF44F678B), compiling. 
+[2022.12.17-17.11.20:462][433]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.17-17.11.20:462][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.20:462][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.20:474][434]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.20:474][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.20:474][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.20:509][435]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.12.17-17.11.20:509][435]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.12.17-17.11.20:509][435]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.12.17-17.11.20:509][435]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.12.17-17.11.20:509][435]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.20:509][435]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.20:509][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.24:283][760]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 3A48E465C3DA2A2729764927D950D820EFE85D04), compiling. 
+[2022.12.17-17.11.24:285][760]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 68F0FD65E83AF7520C746F1E17CEAFCAA7722BA6), compiling. 
+[2022.12.17-17.11.24:287][760]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 1E55965547624ECB481E903BE7D93559EFB35DC8), compiling. 
+[2022.12.17-17.11.24:290][760]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.17-17.11.24:290][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.24:290][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.24:302][761]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.24:302][761]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.24:302][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.24:340][762]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.12.17-17.11.24:341][762]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.12.17-17.11.24:341][762]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.12.17-17.11.24:341][762]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.12.17-17.11.24:341][762]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.24:341][762]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.24:341][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.26:442][935]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: ADDB2A5A919B3A84BC168F0E34037E702B315D84), compiling. 
+[2022.12.17-17.11.26:443][935]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A0AFFBFD3C703E57C21311309C70EF812BB43F69), compiling. 
+[2022.12.17-17.11.26:445][935]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 3C68DD6B91E1A1BF48F3D418CA7505B795E622EA), compiling. 
+[2022.12.17-17.11.26:449][935]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.17-17.11.26:449][935]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.26:449][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.26:463][936]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.26:463][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.26:463][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.26:533][937]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.12.17-17.11.26:533][937]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.12.17-17.11.26:533][937]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.12.17-17.11.26:533][937]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.12.17-17.11.26:533][937]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.26:533][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.26:533][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.27:588][ 32]LogMaterialEditor: Saving and Compiling material Shoes
+[2022.12.17-17.11.27:954][ 32]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 9C158B68B274430BE1AF89DD71E19D4A2CED2744), compiling. 
+[2022.12.17-17.11.27:974][ 32]LogMaterial: Display: Missing cached shadermap for Shoes in PCD3D_SM5, Default, SM5 (DDC key hash: 6317C93D57E5AFE0BD9F14CC48B536C83115E498), compiling. 
+[2022.12.17-17.11.27:981][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.12.17-17.11.28:107][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.12.17-17.11.28:181][ 32]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/ShoesCA38E740407227E5946B6991412C69ED.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Material/NPC/FabriceDubois/Shoes.uasset'
+[2022.12.17-17.11.28:191][ 32]AssetCheck: New page: Asset Save: Shoes
+[2022.12.17-17.11.28:191][ 32]LogContentValidation: Display: Validating Material /Game/Assets/Material/NPC/FabriceDubois/Shoes.Shoes
+[2022.12.17-17.11.28:191][ 32]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.17-17.11.28:191][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.28:192][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.28:215][ 33]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.11.28:215][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.28:215][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.28:234][ 34]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.12.17-17.11.28:234][ 34]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.12.17-17.11.28:234][ 34]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.12.17-17.11.28:234][ 34]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.12.17-17.11.28:234][ 34]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.11.28:234][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.28:234][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.34:045][565]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: F45E742E35638C2E28A54A9ED3A2A86CC9A42742), compiling. 
+[2022.12.17-17.11.34:046][565]LogMaterial: Warning: [AssetLog] /Engine/Transient.Top (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.11.34:046][565]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.11.34:047][565]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 688F260FB0AA9C68FE65155810F3EA69E8B90342), compiling. 
+[2022.12.17-17.11.34:049][565]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: F96DD80ED361588B2B9AF5862FCAD4ADC2BAEFD4), compiling. 
+[2022.12.17-17.11.34:050][565]LogMaterial: Warning: [AssetLog] /Engine/Transient.Top (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.11.34:050][565]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.11.34:099][567]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.17-17.11.34:099][567]LogShaderCompilers: Display: Total job queries 1858, among them cache hits 863 (46.45%)
+[2022.12.17-17.11.34:099][567]LogShaderCompilers: Display: Tracking 620 distinct input hashes that result in 170 distinct outputs (27.42%)
+[2022.12.17-17.11.34:099][567]LogShaderCompilers: Display: RAM used: 0.95 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2022.12.17-17.11.34:099][567]LogShaderCompilers: Display: ================================================
+[2022.12.17-17.11.37:836][887]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: 47F9DFF48F5AE071A8B28EE974D7EF88B6913965), compiling. 
+[2022.12.17-17.11.37:836][887]LogMaterial: Warning: [AssetLog] /Engine/Transient.Top (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.11.37:836][887]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.11.37:837][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9402CF19AA70E4BF2CE549D558371B499A26FBC9), compiling. 
+[2022.12.17-17.11.37:839][887]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: 16332FCD02B24A2CA9A7DC6FE77C8BA22F134C8A), compiling. 
+[2022.12.17-17.11.37:840][887]LogMaterial: Warning: [AssetLog] /Engine/Transient.Top (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.11.37:840][887]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.11.39:980][ 59]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: A096DBACBA3553D176DC64BA85A076BF8887682D), compiling. 
+[2022.12.17-17.11.39:981][ 59]LogMaterial: Warning: [AssetLog] /Engine/Transient.Top (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.11.39:981][ 59]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.11.39:981][ 59]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7BD6B36DDE9BE897A76168F0080450F8E682253A), compiling. 
+[2022.12.17-17.11.39:984][ 59]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: EAF2EBAEAF759A3D3D1D78736309FAD7E4493787), compiling. 
+[2022.12.17-17.11.39:984][ 59]LogMaterial: Warning: [AssetLog] /Engine/Transient.Top (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.12.17-17.11.39:984][ 59]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.12.17-17.11.42:616][287]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: 7BE0E598B9559071BADDA09821277556174220C0), compiling. 
+[2022.12.17-17.11.42:618][287]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A29BB86D5929F2528D11A7B4EC2F94368E8B4C98), compiling. 
+[2022.12.17-17.11.42:620][287]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: DF45A7764F4CF11AA3CC130CFDA159D7695C15F4), compiling. 
+[2022.12.17-17.11.42:623][287]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.17-17.11.42:623][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.42:623][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.42:639][288]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.11.42:639][288]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.12.17-17.11.42:639][288]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.12.17-17.11.42:639][288]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Started 21 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.42:651][289]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.11.43:262][311]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.12.17-17.11.43:263][311]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.43:457][317]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.12.17-17.11.43:458][317]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.43:483][318]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.12.17-17.11.43:483][318]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.43:662][325]LogMaterialEditor: Saving and Compiling material Top
+[2022.12.17-17.11.44:176][325]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.12.17-17.11.44:177][325]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.44:207][325]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC84C355EC0CE6F90BED36E418859BB129F3FB0), compiling. 
+[2022.12.17-17.11.44:250][325]LogMaterial: Display: Missing cached shadermap for Top in PCD3D_SM5, Default, SM5 (DDC key hash: 179241E04D7636672D5ED8FCDA6E0BFC622F6CAD), compiling. 
+[2022.12.17-17.11.44:264][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.17-17.11.44:272][325]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.11.44:692][325]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.12.17-17.11.44:692][325]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.17-17.11.44:702][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.12.17-17.11.44:765][325]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.44:803][325]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Top5F653029417538DD57668FA6492614AD.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Material/NPC/FabriceDubois/Top.uasset'
+[2022.12.17-17.11.44:817][325]AssetCheck: New page: Asset Save: Top
+[2022.12.17-17.11.44:817][325]LogContentValidation: Display: Validating Material /Game/Assets/Material/NPC/FabriceDubois/Top.Top
+[2022.12.17-17.11.44:818][325]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.17-17.11.44:818][325]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.44:818][325]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.44:847][326]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.17-17.11.44:847][326]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.44:847][326]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.44:902][329]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.12.17-17.11.44:902][329]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.17-17.11.45:451][352]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.11.45:451][352]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.45:451][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.11.45:588][363]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.12.17-17.11.45:588][363]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.12.17-17.11.45:588][363]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.12.17-17.11.45:589][363]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.12.17-17.11.45:589][363]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.17-17.11.45:589][363]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.12.17-17.11.45:589][363]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.17-17.13.30:899][728]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.17-17.13.30:899][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-17.13.31:329][766]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.17-17.13.31:329][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-17.13.31:485][778]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.17-17.13.31:485][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-17.13.31:684][794]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.17-17.13.31:684][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-17.13.31:870][812]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.17-17.13.31:870][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-17.14.04:492][456]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/FabriceDuboisFF06B32F411EB44486FA9F9B3AA35175.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Model/NPC/FabriceDubois/FabriceDubois.uasset'
+[2022.12.17-17.14.04:502][456]AssetCheck: New page: Asset Save: FabriceDubois
+[2022.12.17-17.14.04:502][456]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Model/NPC/FabriceDubois/FabriceDubois.FabriceDubois
+[2022.12.17-17.14.13:324][171]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/FabriceDuboisCB4EDD2D4DA1C700D30D038FE51A2548.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Model/NPC/FabriceDubois/FabriceDubois.uasset'
+[2022.12.17-17.14.13:332][171]AssetCheck: New page: Asset Save: FabriceDubois
+[2022.12.17-17.14.13:332][171]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Model/NPC/FabriceDubois/FabriceDubois.FabriceDubois
+[2022.12.17-17.14.25:732][362]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/FabriceDuboisBE1495AE4F3DC86A4C4A0486ACEA754F.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/Model/NPC/FabriceDubois/FabriceDubois.uasset'
+[2022.12.17-17.14.25:742][362]AssetCheck: New page: Asset Save: FabriceDubois
+[2022.12.17-17.14.25:742][362]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Model/NPC/FabriceDubois/FabriceDubois.FabriceDubois
+[2022.12.17-17.14.31:989][921]LogRenderer: Reallocating scene render targets to support 1156x884 Format 10 NumSamples 1 (Frame:5756).
+[2022.12.17-17.14.32:105][933]LogSlate: Window 'FabriceDubois' being destroyed
+[2022.12.17-17.14.34:085][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.17-17.15.00:227][282]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.12.17-17.15.00:227][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-17.15.01:879][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LVL/Map_Game" FILE="E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/LVL/Map_Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.17-17.15.01:884][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.17-17.15.01:896][464]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Map_GameE35301994367205297C6B38DF8C19D53.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/LVL/Map_Game.umap'
+[2022.12.17-17.15.01:911][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LVL/Map_Game_BuiltData" FILE="E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/LVL/Map_Game_BuiltData.uasset" SILENT=true
+[2022.12.17-17.15.01:923][464]LogSavePackage: Moving 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Saved/Map_Game_BuiltDataE3DD2B16442E6EF52CB235B07A4B4DCD.tmp' to 'E:/Projet Unreal Engine/Sims-Prototype-UE-4.27.2/SimsPrototype/Content/Assets/LVL/Map_Game_BuiltData.uasset'
+[2022.12.17-17.15.01:932][464]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.17-17.15.01:932][464]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/LVL/Map_Game_BuiltData.Map_Game_BuiltData
+[2022.12.17-17.15.01:932][464]LogContentValidation: Display: Validating World /Game/Assets/LVL/Map_Game.Map_Game
+[2022.12.17-17.17.33:201][571]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.17-17.17.33:213][571]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.17-17.17.35:440][833]LogContentBrowser: Attempting asset rename: NewFolder -> NPC
+[2022.12.17-17.17.35:440][833]LogContentBrowser: End creating deferred item NewFolder
